@@ -13,7 +13,7 @@ In this work, we provide **a stable machine learning-recursive feature eliminati
 
 
 ## Citation
-Li, Lingyu, and Zhi-Ping Liu. "**Identifying robust diagnostic biomarkers of high-grade serous ovarian cancer by stable machine learning-recursive feature elimination method**." Submit to [COMPUTATIONAL BIOLOGY AND CHEMISTRY](http://www.elsevier.com/wps/find/journaldescription.cws_home/627320/description#description). 
+Li, Lingyu, and Zhi-Ping Liu. "**Identifying robust diagnostic biomarkers of high-grade serous ovarian cancer by stable machine learning-recursive feature elimination method**." Submit to [Computational Biology and Chemistry](http://www.elsevier.com/wps/find/journaldescription.cws_home/627320/description#description). 
 
 
 ## Data
