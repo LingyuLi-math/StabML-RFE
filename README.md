@@ -2,18 +2,18 @@
 
 ![Screenshot](Data/HGSOC.jpg)
 
-In this work, we provide **a stable machine learning-recursive feature elimination method** named **StabML-RFE ** for identifying **robust diagnostic biomarkers** of high-grade serous ovarian cancer (HGSOC) based on gene expression data. The successful identification of HGSOC biomarkers will be beneficial to reduce the risk of ovarian cancer among women for early disease detection. **Obviously, the proposed method of discovering biomarkers for HGSOC can be easily extended for other complex diseases**.
+In this work, we provide **a stable machine learning-recursive feature elimination method** named **StabML-RFE** for identifying **robust diagnostic biomarkers** of high-grade serous ovarian cancer (HGSOC) based on gene expression data. The successful identification of HGSOC biomarkers will be beneficial to reduce the risk of ovarian cancer among women for early disease detection. **Obviously, the proposed method of discovering biomarkers for HGSOC can be easily extended for other complex diseases**.
 
 
 ## StabML-RFE
 <!--START_SECTION:news-->
-* **StabML-RFE **: A method of stable machine learning-recursive feature elimination for identifying robust biomarker from gene expression data. 
-* If you have any questions about **StabML-RFE **, please directly contact the corresponding author [Prof. Zhi-Ping Liu](https://scholar.google.com/citations?user=zkBXb_kAAAAJ&hl=zh-CN&oi=ao) with the E-mail: zpliu@sdu.edu.cn
+* **StabML-RFE**: A method of stable machine learning-recursive feature elimination for identifying robust biomarker from gene expression data. 
+* If you have any questions about **StabML-RFE**, please directly contact the corresponding author [Prof. Zhi-Ping Liu](https://scholar.google.com/citations?user=zkBXb_kAAAAJ&hl=zh-CN&oi=ao) with the E-mail: zpliu@sdu.edu.cn
 <!--END_SECTION:news-->
 
 
 ## Citation
-Li, Lingyu, and Zhi-Ping Liu. "**Identifying robust diagnostic biomarkers of high-grade serous ovarian cancer by stable machine learning-recursive feature elimination method**." Submit to [Computational Biology and Chemistry](http://www.elsevier.com/wps/find/journaldescription.cws_home/627320/description#description). 
+Li, Lingyu, et al. "**Identifying robust diagnostic biomarkers of high-grade serous ovarian cancer by stable machine learning-recursive feature elimination method**." Submit to [Computational Biology and Chemistry](http://www.elsevier.com/wps/find/journaldescription.cws_home/627320/description#description). 
 
 
 ## Data
@@ -26,7 +26,7 @@ Li, Lingyu, and Zhi-Ping Liu. "**Identifying robust diagnostic biomarkers of hig
 
 
 ## R code for StabML-RFE  --  RforSPTB
-The **serial number (1) (2) ... (10)** represents the order in which the program runs in our work.
+The **serial number (1) (2) ... (11)** represents the order in which the program runs in our work.
 <!--START_SECTION:news-->
 * (1) DE_split_sptb.R  --  Divide the dataset and label the difference genes.
 * (2) rfeSPTB.py ----  Feature selection using AB-RFE, DT-RFE, GBDT-RFE, NB-RFE, RF-RFE, SVM-RFE and XGB-RFE method.
